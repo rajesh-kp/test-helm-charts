@@ -3,12 +3,12 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-19T13:24:04.318327343Z"
+    created: "2021-10-22T06:41:40.807029783Z"
     description: A Helm chart for Kubernetes
-    digest: 6111c4347c31055eb65ad7af68dc1bd45a5e76c9699a48d9b7d02b1d2451721d
+    digest: f2ceac9f17f4d72b6c3d8fc0ec7a37382ae527d5e958e725ec6bbaacbb030c92
     name: demo
     type: application
     urls:
-    - https://github.com/rajesh-kp/helm-charts/releases/download/demo-0.1.1/demo-0.1.1.tgz
-    version: 0.1.1
-generated: "2021-10-19T13:24:03.81786865Z"
+    - https://github.com/rajesh-kp/helm-charts/releases/download/demo-0.1.2/demo-0.1.2.tgz
+    version: 0.1.2
+generated: "2021-10-22T06:41:40.56535997Z"
